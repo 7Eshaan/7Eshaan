@@ -1,7 +1,6 @@
 Full-stack developer working on products that solve real problems.
 
-<img src="https://media1.tenor.com/m/pzvqar0jarkAAAAC/night-starrynight.gif" width="100%" />
-<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" width="50%" height="50%"/>
 
 
 # 💻 Tech Stack:
