@@ -26,6 +26,6 @@
 ## Socials
 
 <a href="mailto:eshaandogra7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://x.com/YOUR_HANDLE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" height="28" alt="X" /></picture></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" height="28" alt="Discord" /></a>
+<a href="www.linkedin.com/in/eshaan-dogra"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://x.com/eshawwn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" height="28" alt="X" /></picture></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/723084221413064745"><img src="https://skillicons.dev/icons?i=discord" height="28" alt="Discord" /></a>
